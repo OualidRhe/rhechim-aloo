@@ -1,12 +1,11 @@
 ﻿<Window x:Class="IfcViewer.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:IfcViewer"
-        mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        xmlns:h="clr-namespace:HelixToolkit.Wpf;assembly=HelixToolkit.Wpf"
+        Title="IFC Viewer" Height="600" Width="800">
     <Grid>
-
+        <h:HelixViewport3D x:Name="viewport">
+            <h:SunLight/>
+        </h:HelixViewport3D>
     </Grid>
 </Window>

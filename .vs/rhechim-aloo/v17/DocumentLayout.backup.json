@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oualid\\rhechim-aloo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6569C53-D866-AD58-199C-C9EDE488FB7B}|IfcViewer\\IfcViewer.csproj|c:\\users\\oualid\\rhechim-aloo\\ifcviewer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6569C53-D866-AD58-199C-C9EDE488FB7B}|IfcViewer\\IfcViewer.csproj|solutionrelative:ifcviewer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oualid\\AppData\\Local\\Temp\\.vsdbgsrc\\289960d74eab1ad4756d0052f9fc3c03d1d06f75ea0a80eea44b8ac83ec7238d\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6569C53-D866-AD58-199C-C9EDE488FB7B}|IfcViewer\\IfcViewer.csproj|c:\\users\\oualid\\rhechim-aloo\\ifcviewer\\ifc\\ifcparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6569C53-D866-AD58-199C-C9EDE488FB7B}|IfcViewer\\IfcViewer.csproj|solutionrelative:ifcviewer\\ifc\\ifcparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6569C53-D866-AD58-199C-C9EDE488FB7B}|IfcViewer\\IfcViewer.csproj|c:\\users\\oualid\\rhechim-aloo\\ifcviewer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B6569C53-D866-AD58-199C-C9EDE488FB7B}|IfcViewer\\IfcViewer.csproj|solutionrelative:ifcviewer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6569C53-D866-AD58-199C-C9EDE488FB7B}|IfcViewer\\IfcViewer.csproj|c:\\users\\oualid\\rhechim-aloo\\ifcviewer\\ifcviewer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B6569C53-D866-AD58-199C-C9EDE488FB7B}|IfcViewer\\IfcViewer.csproj|solutionrelative:ifcviewer\\ifcviewer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.NET.Sdk.WindowsDesktop.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IfcParser.cs",
+              "DocumentMoniker": "C:\\Users\\oualid\\rhechim-aloo\\IfcViewer\\IFC\\IfcParser.cs",
+              "RelativeDocumentMoniker": "IfcViewer\\IFC\\IfcParser.cs",
+              "ToolTip": "C:\\Users\\oualid\\rhechim-aloo\\IfcViewer\\IFC\\IfcParser.cs",
+              "RelativeToolTip": "IfcViewer\\IFC\\IfcParser.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAowI4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:19:06.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\oualid\\rhechim-aloo\\IfcViewer\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "IfcViewer\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\oualid\\rhechim-aloo\\IfcViewer\\MainWindow.xaml.cs",
+              "RelativeToolTip": "IfcViewer\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:13:55.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\oualid\\rhechim-aloo\\IfcViewer\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "IfcViewer\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\oualid\\rhechim-aloo\\IfcViewer\\MainWindow.xaml",
+              "RelativeToolTip": "IfcViewer\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-26T10:13:45.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\oualid\\AppData\\Local\\Temp\\.vsdbgsrc\\289960d74eab1ad4756d0052f9fc3c03d1d06f75ea0a80eea44b8ac83ec7238d\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\AppData\\Local\\Temp\\.vsdbgsrc\\289960d74eab1ad4756d0052f9fc3c03d1d06f75ea0a80eea44b8ac83ec7238d\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\oualid\\AppData\\Local\\Temp\\.vsdbgsrc\\289960d74eab1ad4756d0052f9fc3c03d1d06f75ea0a80eea44b8ac83ec7238d\\XamlReader.cs [Lecture seule]",
+              "RelativeToolTip": "..\\AppData\\Local\\Temp\\.vsdbgsrc\\289960d74eab1ad4756d0052f9fc3c03d1d06f75ea0a80eea44b8ac83ec7238d\\XamlReader.cs [Lecture seule]",
+              "ViewState": "AgIAALsBAAAAAAAAAAAwwOIBAAAoAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:11:55.095Z",
+              "EditorCaption": " [Lecture seule]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IfcViewer",
+              "DocumentMoniker": "C:\\Users\\oualid\\rhechim-aloo\\IfcViewer\\IfcViewer.csproj",
+              "RelativeDocumentMoniker": "IfcViewer\\IfcViewer.csproj",
+              "ToolTip": "C:\\Users\\oualid\\rhechim-aloo\\IfcViewer\\IfcViewer.csproj",
+              "RelativeToolTip": "IfcViewer\\IfcViewer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-26T09:59:31.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "RelativeToolTip": "..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "ViewState": "AgIAALIAAAAAAAAAAAAEwL0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-26T09:59:29.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Microsoft.NET.Sdk.WindowsDesktop.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.NET.Sdk.WindowsDesktop.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.NET.Sdk.WindowsDesktop.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.NET.Sdk.WindowsDesktop.targets",
+              "RelativeToolTip": "..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.NET.Sdk.WindowsDesktop.targets",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAmwG4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-26T09:59:25.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
